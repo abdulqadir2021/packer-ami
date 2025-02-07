@@ -1,1 +1,1 @@
-# packer.ami
+# packer-ami
